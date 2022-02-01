@@ -1,6 +1,6 @@
 const clientID = '36d7a25c994d4f1d9a99d78167f51f2c'
 // const redirectUri = 'http://jammming.s3-website-us-east-1.amazonaws.com/'
-const redirectUri = "http://localhost:3000/callback"
+const redirectUri = "https://anandgarikapati-web-app-6.netlify.app/"
 
 let accessToken 
 
